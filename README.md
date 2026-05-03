@@ -68,7 +68,7 @@ The NIST HIPAA Security Rule Toolkit supports real-world healthcare compliance a
 
 ## Toolkit Preview
 
-![Toolkit Preview](screenshot-hsrt-dashboard.png)
+![Toolkit Preview](screenshots/hsrt-dashboard.png)
 
 ---
 
